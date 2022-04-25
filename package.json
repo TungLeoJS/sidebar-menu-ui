@@ -1,0 +1,25 @@
+{
+  "name": "sidebar-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^6.7.1",
+    "node-sass": "^7.0.1",
+    "sass": "^1.50.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-node": "^0.0.0"
+  },
+  "devDependencies": {
+    "sass-loader": "^12.6.0"
+  }
+}
